@@ -1,0 +1,6 @@
+C:\Users\dawid1\Desktop\PIOJAS\prostyProjekt\prostyProjekt\bin\Debug\prostyProjekt.exe.config
+C:\Users\dawid1\Desktop\PIOJAS\prostyProjekt\prostyProjekt\bin\Debug\prostyProjekt.exe
+C:\Users\dawid1\Desktop\PIOJAS\prostyProjekt\prostyProjekt\bin\Debug\prostyProjekt.pdb
+C:\Users\dawid1\Desktop\PIOJAS\prostyProjekt\prostyProjekt\obj\Debug\prostyProjekt.csprojResolveAssemblyReference.cache
+C:\Users\dawid1\Desktop\PIOJAS\prostyProjekt\prostyProjekt\obj\Debug\prostyProjekt.exe
+C:\Users\dawid1\Desktop\PIOJAS\prostyProjekt\prostyProjekt\obj\Debug\prostyProjekt.pdb
